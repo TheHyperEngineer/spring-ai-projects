@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>engineer.hyper</groupId>
+    <artifactId>spring-ai-projects</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>Spring AI Projects</name>
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>25</java.version>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>chat-open-ai</module>
+        <module>openai-compatible-chat</module>
+        <module>ollama-chat</module>
+        <module>chat-anthropic</module>
+        <module>gemini-prompt-template</module>
+        <module>gemini-structured-output</module>
+        <module>gemini-chat-memory</module>
+        <module>gemini-chat-memory-in-postgres</module>
+        <module>gemini-chat-memory-in-h2</module>
+        <module>ollama-inMemory-rag-vector-store</module>
+        <module>ollama-rag-vector-store-with-reddis</module>
+        <module>llm-tool-calling</module>
+        <module>chain-workflow</module>
+        <module>parallelization-workflow</module>
+        <module>routing-workflow</module>
+        <module>orchestrator-workers</module>
+        <module>evaluator-optimizer</module>
+        <module>reflection-workflow</module>
+        <module>a2a-workflow</module>
+    </modules>
+</project>

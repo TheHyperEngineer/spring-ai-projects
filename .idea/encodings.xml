@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/a2a-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chain-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-anthropic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat-open-ai/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/evaluator-optimizer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemini-chat-memory-in-h2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemini-chat-memory-in-postgres/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemini-chat-memory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemini-prompt-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemini-structured-output/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/llm-tool-calling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ollama-chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ollama-inMemory-rag-vector-store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ollama-rag-vector-store-with-reddis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openai-compatible-chat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orchestrator-workers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallelization-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflection-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routing-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

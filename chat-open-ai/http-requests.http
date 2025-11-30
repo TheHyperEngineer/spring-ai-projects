@@ -1,0 +1,8 @@
+### Chat
+
+POST http://localhost:8090/api/chat
+Content-Type: application/json
+
+{
+"prompt": "Hello there!"
+}
