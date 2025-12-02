@@ -4,7 +4,7 @@
     <option name="linkedExternalProjectsSettings">
       <NativeProjectSettings>
         <option name="externalProjectPath" value="-DebugSession-" />
-        <option name="runConfigurationId" value="GeminiChatMemoryApplication" />
+        <option name="runConfigurationId" value="LangGraphAgentApplication" />
       </NativeProjectSettings>
     </option>
   </component>

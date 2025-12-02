@@ -6,7 +6,6 @@ import engineer.hyper.agentic.services.ChatService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseCookie;
 import org.springframework.http.ResponseEntity;
@@ -44,7 +43,9 @@ public class ChatController {
         return ResponseEntity.ok().header(HttpHeaders.SET_COOKIE, cookie.toString()).body(output);
     }
 
-    public record RequestInput(@NotBlank String prompt) { }
+    public record RequestInput(@NotBlank String prompt) {
+    }
 
-    public record RequestOutput(String content, List<Generation> chainOfThought) { }
+    public record RequestOutput(String content, List<Generation> chainOfThought) {
+    }
 }

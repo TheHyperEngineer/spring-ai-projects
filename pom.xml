@@ -35,5 +35,7 @@
         <module>evaluator-optimizer</module>
         <module>reflection-workflow</module>
         <module>a2a-workflow</module>
+        <module>langgraph-demo</module>
+        <module>langgraph-multi-agent-demo</module>
     </modules>
 </project>

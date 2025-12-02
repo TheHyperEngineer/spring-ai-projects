@@ -11,6 +11,8 @@
     <file url="file://$PROJECT_DIR$/gemini-chat-memory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gemini-prompt-template/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gemini-structured-output/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langgraph-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/langgraph-multi-agent-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/llm-tool-calling/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ollama-chat/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ollama-inMemory-rag-vector-store/src/main/java" charset="UTF-8" />

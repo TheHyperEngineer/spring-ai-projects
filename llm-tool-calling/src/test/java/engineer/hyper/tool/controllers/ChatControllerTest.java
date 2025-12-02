@@ -40,7 +40,7 @@ class ChatControllerTest {
                 .bodyJson()
                 .convertTo(ChatController.Output.class).satisfies(output -> {
                     assertThat(output.content()).isNotBlank();
-                    System.out.println("Response:\n"+output.content());
+                    System.out.println("Response:\n" + output.content());
                 });
 
     }
