@@ -37,5 +37,6 @@
         <module>a2a-workflow</module>
         <module>langgraph-demo</module>
         <module>langgraph-multi-agent-demo</module>
+        <module>web-socket-agent-demo</module>
     </modules>
 </project>
